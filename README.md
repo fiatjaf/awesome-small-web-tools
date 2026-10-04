@@ -4,6 +4,7 @@
   * [ASCIIFlow](http://asciiflow.com/) - Fast and easy way to draw ASCII diagrams.
   * [jiq-web](https://jq.alhur.es/jiq/) - [jq](https://stedolan.github.io/jq/) compiled to JavaScript and made into a JSON explorer tool.
   * [Smallpdf](https://smallpdf.com/) and [PDF.io](https://pdf.io/) - All PDF tools you can possibly imagine in a pretty and functional UI.
+  * [FileOnTap](https://fileontap.com/) - Free online file converter that runs in the browser and does not upload files.
   * [RANDOM.ORG](https://www.random.org/) - Random number generation and simple randomization tools based on _true randomness_.
   * [QR Code Generator](https://www.the-qrcode-generator.com/) - Fast and simple scan and generate QR codes in the browser.
   * [cam-recorder](https://www.cam-recorder.com/) - Record video on your webcam, save it locally.
